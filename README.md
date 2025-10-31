@@ -4,7 +4,6 @@ Automated Hardware-in-the-Loop (HIL) testbench using Raspberry Pi Zero 2 W and P
 # ⚡ RPi-FPGA-HIL-Verifier: Automated VLSI Core Testing (64-Test-Case HIL Regression)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/RPi-FPGA-HIL-Verifier.svg?style=social)](https://github.com/YOUR_USERNAME/RPi-FPGA-HIL-Verifier/stargazers)
 
 ## 🌟 Project Highlights
 
