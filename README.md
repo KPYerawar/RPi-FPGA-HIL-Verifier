@@ -8,10 +8,3 @@ Automated **Hardware-in-the-Loop (HIL)** testing setup that connects a **Raspber
 
 This project implements a simple yet powerful **real-hardware verification system** for an FPGA-based 4x1 MUX.  
 Instead of verifying logic only in simulation, the **Raspberry Pi** sends live test vectors to the FPGA pins and reads the output — performing **true silicon-level verification**.
-
----
-
-## 🧩 Design Under Test
-
-The FPGA implements a **4x1 MUX**:
-
